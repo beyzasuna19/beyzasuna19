@@ -25,10 +25,6 @@ Here are some of the technologies I frequently work with:
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ---
+## 📊 GitHub Contributions:
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=beyzasuna19&bg_color=1f1f1f&color=ffffff&line=ff9933&point=ff9933&hide_border=true)
 
-## 🧑‍💻 Dynamic Dev Card:
-<a href="https://app.daily.dev/beyzasuna19"><img src="https://github.com/beyzasuna19/beyzasuna19/blob/main/devcard.svg" width="400" alt="Beyza's Dev Card"/></a>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=beyzasuna19&icon=0&color=6)](https://visitcount.itsvg.in)
