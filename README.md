@@ -1,9 +1,5 @@
 # 💫 About Me:
-Hello! I’m a passionate **Frontend Developer** who loves turning ideas into reality with code.  
-Whether working individually or in teams, I thrive in both environments, constantly pushing myself to **learn**, **grow**, and stay on the cutting edge of technology.  
-Sharing knowledge and collaborating with others is something I deeply value.  
-<br>  
-Technologies I work with include **HTML**, **CSS**, **JavaScript**, **Flutter**, **Dart**, and more.
+"Hello, I am a Frontend developer and<br> I greatly enjoy writing code.<br> I have a personality that is suitable for both individual work and teamwork. I constantly strive to learn and stay updated, and I do not hesitate to share my knowledge My skills include <br>HTML, CSS, JavaScript, Flutter, Dart and many other technologies."
 
 ---
 
@@ -30,9 +26,8 @@ Here are some of the technologies I frequently work with:
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=beyzasuna19&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=beyzasuna19&theme=bear&hide_border=false)
+## 🧑‍💻 Dynamic Dev Card:
+<a href="https://app.daily.dev/beyzasuna19"><img src="https://github.com/beyzasuna19/beyzasuna19/blob/main/devcard.svg" width="400" alt="Beyza's Dev Card"/></a>
 
 ---
 
