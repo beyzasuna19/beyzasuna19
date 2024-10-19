@@ -25,6 +25,17 @@ Here are some of the technologies I frequently work with:
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ---
-## 📊 GitHub Contributions:
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=beyzasuna19&bg_color=1f1f1f&color=ffffff&line=ff9933&point=ff9933&hide_border=true)
+## 🏆 Achievements:
+Here are some highlights of my GitHub achievements:
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=beyzasuna19&theme=onedark&no-frame=true&margin-w=10)
+
+---
+
+## 🔥 GitHub Streak:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beyzasuna19&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 💻 Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzasuna19&layout=compact&theme=dark&hide_border=true)
