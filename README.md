@@ -2,10 +2,10 @@
 "Hello, I am a Frontend developer and<br> I greatly enjoy writing code.<br> I have a personality that is suitable for both individual work and teamwork. I constantly strive to learn and stay updated, and I do not hesitate to share my knowledge My skills include <br>HTML, CSS, JavaScript, Flutter, Dart and many other technologies."
 
 ---
+- 📫 How to reach me: beyzakambur2014@gmail.com
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beyzakambur)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beyzasuna19)
 
 ---
 
