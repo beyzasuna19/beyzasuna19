@@ -36,6 +36,5 @@ Here are some highlights of my GitHub achievements:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beyzasuna19&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
+![Snake animation](https://github.com/beyzasuna19/beyzasuna19/blob/output/github-contribution-grid-snake.svg)
 
-## 💻 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beyzasuna19&layout=compact&theme=dark&hide_border=true)
