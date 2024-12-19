@@ -32,9 +32,5 @@ Here are some highlights of my GitHub achievements:
 
 ---
 
-## 🔥 GitHub Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=beyzasuna19&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
----
 
 
