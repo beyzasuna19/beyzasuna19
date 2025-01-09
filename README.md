@@ -24,13 +24,6 @@ Here are some of the technologies I frequently work with:
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 
----
-## 🏆 Achievements:
-Here are some highlights of my GitHub achievements:
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=beyzasuna19&theme=onedark&no-frame=true&margin-w=10)
-
----
 
 
 
