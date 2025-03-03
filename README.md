@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media.giphy.com/media/3o7TKsQ8gqVr5Yk5y8/giphy.gif" alt="Kelebek Animasyonu" width="100"/> </p><h1 align="center">👋 Merhaba, Ben Beyza Kambur</h1> <h3 align="center">Frontend Geliştirici | Mobil Uygulama Geliştirici | Firebase ve Node.js Sever</h3><p align="center"> <a href="mailto:beyzakambur2014@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/beyzakambur/"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/beyzasuna19"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
+
 🧑‍💻 Hakkımda
 Merhaba! Ben Beyza Kambur, Frontend Geliştirme, Mobil Uygulama Geliştirme ve Backend Entegrasyonları üzerine çalışan bir yazılım geliştiriciyim. Özellikle Flutter, Firebase ve Node.js teknolojilerini kullanarak modern ve kullanıcı dostu uygulamalar geliştiriyorum.
 
