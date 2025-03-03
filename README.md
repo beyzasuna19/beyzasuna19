@@ -51,4 +51,4 @@ void main() {
 </p>
 
 ---
-<p align="center"> <img src="https://github.com/beyzasuna19/beyzasuna19/blob/output/github-contribution-grid-snake.svg" alt="Yılan Animasyonu"/> </p><h1 align="center">
+<p align="center"> <img src="https://github.com/beyzasuna19/beyzasuna19/blob/output/github-contribution-grid-snake.svg" alt="Yılan Animasyonu"/> </p>
